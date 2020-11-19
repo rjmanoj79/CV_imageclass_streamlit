@@ -6,3 +6,4 @@ Teachable Machine allows you to train classifier models on the web. You can crea
 Once on the image classification page, label Class 1 as Brain Tumor and Class 2 as No Brain Tumor. Upload the images to the appropriate class. After uploading the data, click the Train Model button and wait for results.
 
 Once done, you will be able to download the weights file with a .h5 extension. This is what you will use for your classification task.
+Model Creation: https://teachablemachine.withgoogle.com/train/image
